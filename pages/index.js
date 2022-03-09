@@ -25,10 +25,10 @@ export default function Home() {
       <Head>
         <title>Grammar Corrector</title>
         <link rel="icon" href="/hat.png" />
-        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3991053540680389" crossorigin="anonymous"></script>
       </Head>
 
       <main className={styles.main}>
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3991053540680389" crossorigin="anonymous"></script>
         <img src="/hat.png" className={styles.icon} />
         <h3>Grammar Corrector</h3>
         <form onSubmit={onSubmit}>
