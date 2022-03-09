@@ -21,11 +21,11 @@ export default function Home() {
   }
 
   return (
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3991053540680389" crossorigin="anonymous"></script>
     <div>
       <Head>
         <title>Grammar Corrector</title>
         <link rel="icon" href="/hat.png" />
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3991053540680389" crossorigin="anonymous"></script>
       </Head>
 
       <main className={styles.main}>
