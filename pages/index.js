@@ -22,10 +22,11 @@ export default function Home() {
 
   return (
     <div>
-      <Head>
+      <head>
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3991053540680389" crossorigin="anonymous"></script>
         <title>Grammar Corrector</title>
         <link rel="icon" href="/hat.png" />
-      </Head>
+      </head>
 
       <main className={styles.main}>
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3991053540680389" crossorigin="anonymous"></script>
